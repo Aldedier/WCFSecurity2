@@ -22,7 +22,6 @@ namespace WCFSecurity.Tests
         }
 
 
-
         [TestMethod()]
         public void ValidateTokenTest()
         {
